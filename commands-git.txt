@@ -1,0 +1,4 @@
+git push --u
+git push --all
+git push --miror
+git clone
